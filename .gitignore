@@ -1,0 +1,9 @@
+# User-specific config
+sites.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Backups (created by export-site.py)
+Backups/

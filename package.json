@@ -1,0 +1,17 @@
+{
+  "name": "hermes-ghost-cms",
+  "version": "2.3.0",
+  "description": "Ghost CMS Admin API skill for Hermes Agent",
+  "author": "cosmohub",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cosmohub/hermes-ghost-cms"
+  },
+  "keywords": ["hermes", "ghost", "cms", "blog", "api"],
+  "skill": {
+    "name": "ghost-cms",
+    "category": "productivity",
+    "entry": "SKILL.md"
+  }
+}

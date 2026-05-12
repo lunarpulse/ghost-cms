@@ -1,0 +1,13 @@
+{
+  "sites": {
+    "myblog": {
+      "domain": "blog.example.com",
+      "admin_key_env": "GHOST_MYBLOG_ADMIN_KEY",
+      "content_key_env": "GHOST_MYBLOG_CONTENT_KEY",
+      "api_version": "v5.0",
+      "http_version": "1.1",
+      "description": "My blog"
+    }
+  },
+  "default_site": "myblog"
+}
