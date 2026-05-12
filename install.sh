@@ -8,7 +8,7 @@ set -euo pipefail
 
 SKILL_NAME="ghost-cms"
 CATEGORY="productivity"
-REPO_URL="${REPO_URL:-https://github.com/cosmohub/hermes-ghost-cms}"
+REPO_URL="${REPO_URL:-https://github.com/lunarpulse/ghost-cms}"
 BRANCH="${BRANCH:-main}"
 HERMES_SKILLS_DIR="${HOME}/.hermes/skills"
 TARGET_DIR="${HERMES_SKILLS_DIR}/${CATEGORY}/${SKILL_NAME}"

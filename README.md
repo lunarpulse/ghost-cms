@@ -4,6 +4,14 @@ Manage one or more Ghost blogs via the Admin API. Features multi-site support, L
 
 ## Quick Start
 
+### One-liner Install
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/lunarpulse/ghost-cms/main/install.sh | bash
+```
+
+### Manual Install
+
 1. **Install dependency:**
    ```bash
    pip install pyjwt
